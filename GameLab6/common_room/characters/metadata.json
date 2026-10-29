@@ -1,0 +1,37 @@
+{
+  "Hurricane Kick": {
+    "floor_offset": -0.17663514256477356,
+    "min_foot": 0.3396829664707184,
+    "max_foot": 0.33968397974967957,
+    "frames": 56,
+    "bones": 33
+  },
+  "Jumping": {
+    "floor_offset": -0.06744713306427003,
+    "min_foot": 0.1297060251235962,
+    "max_foot": 1.3542839288711548,
+    "frames": 58,
+    "bones": 33
+  },
+  "Running": {
+    "floor_offset": 0.004640778787434101,
+    "min_foot": 0.07012355327606201,
+    "max_foot": 0.1533001959323883,
+    "frames": 24,
+    "bones": 33
+  },
+  "Silly Dancing": {
+    "floor_offset": -0.07630825817584992,
+    "min_foot": 0.1467466503381729,
+    "max_foot": 0.15024824440479279,
+    "frames": 116,
+    "bones": 33
+  },
+  "Walk": {
+    "floor_offset": 0.12536882996559143,
+    "min_foot": -0.24109390377998352,
+    "max_foot": 0.1699191778898239,
+    "frames": 31,
+    "bones": 33
+  }
+}

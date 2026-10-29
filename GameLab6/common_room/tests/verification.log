@@ -1,0 +1,21 @@
+Godot Engine v4.7.stable.official.5b4e0cb0f - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 610.78 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4050 Laptop GPU
+
+PASS NPC 1 bones=33 clip=Armature|mixamo_com|Layer0
+PASS NPC 2 bones=33 clip=Armature|mixamo_com|Layer0
+PASS NPC 3 bones=33 clip=Armature|mixamo_com|Layer0
+PASS NPC 4 bones=33 clip=Armature|mixamo_com|Layer0
+PASS NPC 5 bones=33 clip=Armature|mixamo_com|Layer0
+PASS route (0.0, 0.0, -4.0)
+PASS route (-3.7, 0.0, -4.6)
+PASS route (-3.7, 0.0, 3.3)
+PASS route (0.0, 0.0, 3.3)
+PASS route (3.3, 0.0, 1.5)
+PASS route (3.3, 0.0, -4.6)
+PASS route (0.0, 0.0, -4.0)
+PASS route (0.0, 0.0, 7.0)
+PASS route (2.0, 0.0, 7.0)
+PASS route (0.0, 0.0, 12.0)
+PASS wall collision (-0.0, -0.000881, -8.377113)
+PASS furniture collision (-4.136946, 0.000989, 0.704473)
+PASS camera and Escape; ALL ROOM CHECKS PASSED
