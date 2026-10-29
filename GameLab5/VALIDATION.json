@@ -1,0 +1,62 @@
+{
+  "result": "PASS",
+  "checks": [
+    "All 10 web entry/assets return HTTP 200",
+    "Export file sizes match HTML config",
+    "WASM MIME and binary header valid",
+    "HTML references exist"
+  ],
+  "files": [
+    {
+      "file": "index.html",
+      "bytes": 5465,
+      "status": 200
+    },
+    {
+      "file": "LAB05.html",
+      "bytes": 5465,
+      "status": 200
+    },
+    {
+      "file": "LAB05.js",
+      "bytes": 315645,
+      "status": 200
+    },
+    {
+      "file": "LAB05.wasm",
+      "bytes": 37896978,
+      "status": 200
+    },
+    {
+      "file": "LAB05.pck",
+      "bytes": 36871092,
+      "status": 200
+    },
+    {
+      "file": "LAB05.audio.worklet.js",
+      "bytes": 7298,
+      "status": 200
+    },
+    {
+      "file": "LAB05.audio.position.worklet.js",
+      "bytes": 2973,
+      "status": 200
+    },
+    {
+      "file": "LAB05.png",
+      "bytes": 630255,
+      "status": 200
+    },
+    {
+      "file": "LAB05.icon.png",
+      "bytes": 40121,
+      "status": 200
+    },
+    {
+      "file": "LAB05.apple-touch-icon.png",
+      "bytes": 3982,
+      "status": 200
+    }
+  ],
+  "scope": "HTTP and file integrity; browser gameplay not verified."
+}
